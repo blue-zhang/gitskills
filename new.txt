@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this is from dev
 from a
+=======
+this is from b
+this is from a
+this is from b
+>>>>>>> 8e5afa262ab7ffee48090f33f2247ea541f36821
