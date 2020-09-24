@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-=======
-this is b
-this is a
->>>>>>> dev
-
